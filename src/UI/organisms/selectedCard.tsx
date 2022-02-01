@@ -3,7 +3,6 @@ import Card from "../molecules/card";
 import Label from "../atoms/label";
 import {item} from '../../types';
 import { Capitalize } from "../../helpers";
-import './index.scss';
 
 
 type Props = {

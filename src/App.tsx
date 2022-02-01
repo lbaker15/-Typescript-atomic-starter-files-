@@ -2,6 +2,7 @@ import './App.css';
 import {Routes, BrowserRouter as Router, Route} from 'react-router-dom';
 import Dashboard from './pages/dashboard';
 import Single from './pages/single';
+import './UI/css/index.scss';
 
 function App() {
   return (
