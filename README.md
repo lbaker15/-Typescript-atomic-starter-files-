@@ -14,12 +14,7 @@ This front-end challenge is designed for you to showcase your abilities, and dem
 - Must be responsive, supporting both desktop & mobile.  
 - For non senior candidates, please consume [this API endpoint](https://gc-frontendchallenge-2019.azurewebsites.net/api/easymode) for data.  For senior level candidates please consume [this API endpoint](https://gc-frontendchallenge-2019.azurewebsites.net/api/hardmode) instead.
 - Must be able to filter by product (e.g. "Car", "Pet", "All").  
-- Must include a counter, reflecting total quotes visible for the current view.  
-- Each quote should be displayed as a 'card'.  
-- Must align with _your_ definition of production ready code.  
-- App must work, and look as expected in all major browsers on both desktop & mobile.  
-
-### Task
+- MusTask
 
 Build a simple app which consumes, handles and displays data served from an API, with a UI reflecting either the provided wireframe, or a suitable alternative.  
 
@@ -35,7 +30,12 @@ It is expected that we can build your solution. If you think it will assist, ple
 When complete, please push your code to the github repository that was provided to you alongside this challenge.  
 
 Once the PR has been submitted, please email luke.stegall@futurenet.com and Andrew.Challen@futurenet.com to inform them that you have opened the pull request, and we will review at the earliest opportunity.
+t include a counter, reflecting total quotes visible for the current view.  
+- Each quote should be displayed as a 'card'.  
+- Must align with _your_ definition of production ready code.  
+- App must work, and look as expected in all major browsers on both desktop & mobile.  
 
+### 
 ### Wireframe
 
 ![Temporal wireframe](assets/wireframe.png)

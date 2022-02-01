@@ -40,7 +40,7 @@ const ListComponent = ({ array, moreItemsLoading, loadMore, hasNextPage, changeC
       {({ onItemsRendered, ref }) => (
         <React.Fragment>
         <FixedSizeList
-          height={(window.innerWidth > 900) ? 400 : 500}
+          height={(window.innerWidth > 900) ? 400 : 550}
           width={screenWidth}
           itemCount={array.length}
           itemSize={(window.innerWidth > 900) ? 700 : (window.innerWidth < 600) ? 350 : 450}
